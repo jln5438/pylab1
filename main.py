@@ -8,4 +8,4 @@ elif(unit=='c' or unit =='C'):
   ftemp=(temp*9/5)+32
   print(temp+"° in Celsius is equivalent to "+ftemp+"° Fahrenheit.")
 else:
-  print("Invalid unit("+unit+")")
+  print("Invalid unit("+unit+").")
